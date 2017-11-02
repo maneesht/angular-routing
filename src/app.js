@@ -17,4 +17,5 @@ angular.module("myApp", ['ngRoute', 'myApp.pageone', 'myApp.next'])
                 redirectTo: "/"
             });
     });
+console.log("test");
 
